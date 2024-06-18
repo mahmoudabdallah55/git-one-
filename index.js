@@ -43,3 +43,5 @@ fetch("https://jsonplaceholder.typicode.com/posts").then((res)=>{
 })
 
 console.log("mahmou  d  flkbf"); 
+
+console.log('github');
