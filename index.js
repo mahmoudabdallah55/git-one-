@@ -42,4 +42,4 @@ fetch("https://jsonplaceholder.typicode.com/posts").then((res)=>{
     console.log(rej);
 })
 
-console.log("mahmou  d  flkbf"); 
+console.log("mahmoflkbf"); 
